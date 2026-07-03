@@ -1,5 +1,6 @@
 python-telegram-bot==21.11.1
 tensorflow==2.16.1
-numpy
-pillow
+numpy==1.26.4
+Pillow
 python-dotenv
+google-genai>=1.20.0
