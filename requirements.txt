@@ -1,5 +1,5 @@
 python-telegram-bot==21.11.1
-tensorflow>=2.10
+tensorflow==2.16.1
 numpy
-Pillow
+pillow
 python-dotenv
